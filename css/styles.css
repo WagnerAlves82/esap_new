@@ -327,7 +327,7 @@ a:hover {
 	line-height: 0;
 	cursor: pointer;
 	transition: all 0.2s;
-
+}
 .form-control-submit-button:hover {
 	border: 1px solid #00a5ae;
 	background-color: transparent;
